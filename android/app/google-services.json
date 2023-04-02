@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "616939354260",
+    "project_id": "event-creator-app",
+    "storage_bucket": "event-creator-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616939354260:android:210ef6c756c750e9a99c81",
+        "android_client_info": {
+          "package_name": "com.example.event_creator_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616939354260-61o73h7ef92ae2bnn2lk2vederla55eh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDELER-ajXw0cMyYBKr640wtTAFLvCLuzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616939354260-61o73h7ef92ae2bnn2lk2vederla55eh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
